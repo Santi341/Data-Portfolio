@@ -1,0 +1,7 @@
+Fecha,Producto,Cantidad,Precio_Unitario,Costo_Unitario,Total,Margen
+2024-07-01,Pollo,5,3,"1,5",15,"7,5"
+2024-07-01,Ballena,3,4,2,12,6
+2024-07-02,Pollo,4,3,"1,5",12,6
+2024-07-02,Ballena,2,4,2,8,4
+2024-07-03,Gato,6,5,"2,5",30,15
+2024-07-03,Pollo,3,3,"1,5",9,"4,5"
