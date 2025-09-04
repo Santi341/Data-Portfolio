@@ -1,4 +1,4 @@
-*  Proyecto: Análisis de Ventas de Llaveros (SQL)
+*   Proyecto: Análisis de Ventas de Llaveros (SQL)
 
 **Objetivo:** Analizar las ventas de llaveros para identificar productos más rentables, patrones de compra y días de mayor comercialización.
 
