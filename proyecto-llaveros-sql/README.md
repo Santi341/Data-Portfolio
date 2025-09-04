@@ -1,15 +1,19 @@
-*   Proyecto: Análisis de Ventas de Llaveros (SQL)
+# Proyecto: Análisis de Ventas de Llaveros (SQL)
 
-**Objetivo:** Analizar las ventas de llaveros para identificar productos más rentables, patrones de compra y días de mayor comercialización.
+**Objetivo:** Analizar ventas de llaveros para identificar productos más vendidos, márgenes, clientes asociados y días con mayor venta.
 
-**Herramientas:** SQL Server (consultas, joins, group by, filtros)
+**Herramientas:** SQL Server (consultas, joins, group by, filtros, actualizaciones de tablas)
 
 **Archivos:**
-- ventas_llaveros.sql (consultas)
-- resultados.sql (outputs simulados)
+- `ventas_llaveros.sql` (script completo de creación de tablas, carga de datos, consultas y joins)
+- `resultados.sql` (outputs simulados de las consultas)
 
-**Resultados clave:**  
-- Identificación de productos con mayor rentabilidad  
-- Detección de patrones de compra por fecha  
-- Medición de márgenes y desempeño de ventas
+**Consultas y resultados clave:**
+- Ventas totales por producto y margen total  
+- Días con mayor cantidad de ventas  
+- Producto más rentable  
+- Ticket promedio de venta  
+- Asignación de clientes a ventas y join para combinar información de clientes con ventas
+
+**Nota:** El archivo `resultados.sql` contiene resultados simulados basados en las consultas del script principal. No afecta la ejecución del script real y sirve como referencia visual para el portafolio.
 
