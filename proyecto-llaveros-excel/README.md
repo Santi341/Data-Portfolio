@@ -1,4 +1,4 @@
-Proyecto: Análisis de Ventas de Llaveros (Excel/Google Sheets)
+# Proyecto: Análisis de Ventas de Llaveros (Excel/Google Sheets)
 
 Este proyecto es parte de mi portafolio de análisis de datos.  
 El objetivo es simular un caso real de ventas, calcular métricas clave y visualizar resultados.
